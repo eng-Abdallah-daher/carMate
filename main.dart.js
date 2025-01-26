@@ -10586,7 +10586,7 @@ case 1:return A.v(q,r)}})
 return A.w($async$Q7,r)},
 aZM(a){var s=0,r=A.x(t.H),q,p,o,n
 var $async$aZM=A.r(function(b,c){if(b===1)return A.u(c,r)
-while(true)switch(s){case 0:q=A.aW("http://localhost:3000/api/estimate/estimate-repair-cost",0,null)
+while(true)switch(s){case 0:q=A.aW("https://gp1-ghqa.onrender.com/api/estimate/estimate-repair-cost",0,null)
 p=t.N
 o=A.U(["Content-Type","application/json"],p,p)
 s=2
@@ -55471,7 +55471,7 @@ s=A.a([$.C,new A.n(4287084247)],t.O)
 r=A.y(20)
 q=t.V
 p=A.a([new A.aQ(0,B.B,A.t(51,0,0,0),new A.c(0,5),10)],q)
-p=A.ac(g,g,B.k,g,g,new A.ag(g,A.SQ(B.fQ,new A.no("../images/carmate.png",g,g),g),g,r,p,g,B.p),g,200,g,g,g,g,g,1/0)
+p=A.ac(g,g,B.k,g,g,new A.ag(g,A.SQ(B.fQ,new A.no("images/carmate.png",g,g),g),g,r,p,g,B.p),g,200,g,g,g,g,g,1/0)
 r=A.m(g,20,g)
 o=A.e("Describe Your Car Issue",g,g,g,A.i(g,g,$.ae,g,g,g,g,g,g,g,g,28,g,g,B.f,g,g,!0,g,g,g,g,g,g,g,g),B.aO,g,g)
 n=A.m(g,20,g)
