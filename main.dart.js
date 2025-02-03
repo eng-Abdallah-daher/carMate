@@ -54831,7 +54831,7 @@ return A.ho(!1,new A.Hv(s),A.fq(s,A.xP(B.hC,s,B.av,s,s,B.fd),"Roboto",B.ab,s,s,r
 A.Hv.prototype={
 N(){return new A.a57()}}
 A.a57.prototype={
-B(a){var s,r,q=null,p=A.a([B.ab,B.W],t.O),o=t.p,n=A.bV(A.a7(A.a([A.lj("images/map.png",q,q,300),A.n(q,8,q),A.d("Step 2: Public Personal Information",q,q,q,A.i(q,q,B.r,q,q,q,q,q,q,q,q,34,q,q,B.f,q,q,!0,q,2,q,q,q,q,q,q),q,q,q),A.d("Provide your personal information",q,q,q,A.i(q,q,A.t(B.c.K(178.5),255,255,255),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],o),B.l,B.h,B.e),q,q),m=A.n(q,40,q),l=$.nr(),k=A.Z(B.jd,B.ab,q,q)
+B(a){var s,r,q=null,p=A.a([B.ab,B.W],t.O),o=t.p,n=A.bV(A.a7(A.a([A.d("Step 2: Public Personal Information",q,q,q,A.i(q,q,B.r,q,q,q,q,q,q,q,q,34,q,q,B.f,q,q,!0,q,2,q,q,q,q,q,q),q,q,q),A.lj("images/map.png",q,q,300),A.d("Provide your personal information",q,q,q,A.i(q,q,A.t(B.c.K(178.5),255,255,255),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],o),B.l,B.h,B.e),q,q),m=A.n(q,40,q),l=$.nr(),k=A.Z(B.jd,B.ab,q,q)
 k=A.e0(!1,l,q,A.bq(q,new A.au(4,A.y(12),B.az),q,q,q,q,q,q,!0,q,q,q,q,q,q,B.al,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,"Description",q,q,q,q,q,q,q,q,q,q,k,q,q,q,q,q,q,q,q,q,q,q),q,!1,q,q,B.o6,q,1,!1,q,q,q,q,q,!1,q,q,B.B,q,new A.aPV())
 l=A.n(q,16,q)
 s=$.QQ()
@@ -54851,7 +54851,7 @@ return A.ho(!1,new A.D0(s),A.fq(s,A.xP(B.hC,s,B.av,s,s,B.fd),"Roboto",B.ab,s,s,r
 A.D0.prototype={
 N(){return new A.a_t(new A.bo(null,t.am))}}
 A.a_t.prototype={
-B(a){var s,r,q=null,p=A.a([B.ab,B.W],t.O),o=t.p,n=A.bV(A.a7(A.a([A.lj("images/car.png",q,220,q),A.n(q,16,q),A.d("Step 3: Account Security Information",q,q,q,A.i(q,q,B.r,q,q,q,q,q,q,q,q,34,q,q,B.f,q,q,!0,q,2,q,q,q,q,q,q),q,q,q),A.n(q,8,q),A.d("Provide your personal information",q,q,q,A.i(q,q,A.t(B.c.K(178.5),255,255,255),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],o),B.l,B.h,B.e),q,q),m=A.n(q,30,q),l=$.px(),k=A.Z(B.dK,B.ab,q,q)
+B(a){var s,r,q=null,p=A.a([B.ab,B.W],t.O),o=t.p,n=A.bV(A.a7(A.a([A.d("Step 3: Account Security Information",q,q,q,A.i(q,q,B.r,q,q,q,q,q,q,q,q,34,q,q,B.f,q,q,!0,q,2,q,q,q,q,q,q),q,q,q),A.lj("images/car.png",q,220,q),A.d("Provide your personal information",q,q,q,A.i(q,q,A.t(B.c.K(178.5),255,255,255),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],o),B.l,B.h,B.e),q,q),m=A.n(q,30,q),l=$.px(),k=A.Z(B.dK,B.ab,q,q)
 k=A.e0(!1,l,q,A.bq(q,new A.au(4,A.y(12),B.az),q,q,q,q,q,q,!0,q,q,q,q,q,q,B.al,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,"Password",q,q,q,q,q,q,q,q,q,q,k,q,q,q,q,q,q,q,q,q,q,q),q,!1,q,q,q,q,1,!0,q,q,q,q,q,!1,q,q,B.B,q,new A.azw())
 l=A.n(q,16,q)
 s=$.QP()
@@ -54882,8 +54882,8 @@ return A.ho(!1,new A.Ju(s),A.fq(s,A.xP(B.hC,s,B.av,s,s,B.fd),"Roboto",B.ab,s,s,r
 A.Ju.prototype={
 N(){return new A.a8e()}}
 A.a8e.prototype={
-B(a){var s=null,r=A.a([B.ab,B.W],t.O),q=A.lj("images/logo4.png",s,220,s),p=A.n(s,16,s),o=$.abv?"Step 4: Terms and Conditions":"Step 5: Terms and Conditions",n=t.p
-return A.bt(s,s,A.cC(A.a8(s,new A.ad(B.M3,A.a7(A.a([A.bV(A.a7(A.a([q,p,A.d(o,s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,34,s,s,B.f,s,s,!0,s,2,s,s,s,s,s,s),s,s,s),A.n(s,8,s)],n),B.l,B.h,B.e),s,s),A.n(s,40,s),A.d("Please read and accept the terms and conditions before proceeding.",s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.n(s,16,s),A.ao(A.a([A.b6d(s,!1,s,s,s,!1,s,s,new A.aVO(this),s,s,s,s,s,!1,$.ab6),A.bd(A.d("I accept the terms and conditions",s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),1)],n),B.l,B.h,B.e,s),A.n(s,16,s),A.dk(A.d("View Terms and Conditions",s,s,s,A.i(s,s,B.cL,s,B.fA,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),new A.aVP(),s),A.n(s,138,s)],n),B.bm,B.h,B.e),s),B.k,s,s,new A.af(s,s,s,s,s,new A.aQ(B.S,B.Z,B.y,r,s,s),B.p),s,s,s,s,s,s,s,s),s,s,s,B.I),s,s,s,s,s,s,s)}}
+B(a){var s=null,r=A.a([B.ab,B.W],t.O),q=$.abv?"Step 4: Terms and Conditions":"Step 5: Terms and Conditions",p=t.p
+return A.bt(s,s,A.cC(A.a8(s,new A.ad(B.M3,A.a7(A.a([A.bV(A.a7(A.a([A.d(q,s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,34,s,s,B.f,s,s,!0,s,2,s,s,s,s,s,s),s,s,s),A.lj("../images/logo4.png",s,320,320)],p),B.l,B.h,B.e),s,s),A.n(s,40,s),A.d("Please read and accept the terms and conditions before proceeding.",s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,B.M,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.n(s,16,s),A.ao(A.a([A.b6d(s,!1,s,s,s,!1,s,s,new A.aVO(this),s,s,s,s,s,!1,$.ab6),A.bd(A.d("I accept the terms and conditions",s,s,s,A.i(s,s,B.r,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),1)],p),B.l,B.h,B.e,s),A.n(s,16,s),A.dk(A.d("View Terms and Conditions",s,s,s,A.i(s,s,B.cL,s,B.fA,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),new A.aVP(),s),A.n(s,138,s)],p),B.bm,B.h,B.e),s),B.k,s,s,new A.af(s,s,s,s,s,new A.aQ(B.S,B.Z,B.y,r,s,s),B.p),s,s,s,s,s,s,s,s),s,s,s,B.I),s,s,s,s,s,s,s)}}
 A.aVO.prototype={
 $1(a){var s=this.a
 s.t(new A.aVN(s,a))},
@@ -54902,12 +54902,12 @@ A.abD.prototype={
 B(a){var s=null,r=A.wj(A.bp())
 return A.ho(!1,new A.Wc(s),A.fq(s,A.xP(B.cL,s,B.av,s,s,B.fd),"Roboto",B.ab,s,s,r),"Registration App")}}
 A.Wc.prototype={
-B(a){var s,r=null,q=A.a([B.ab,B.W],t.O),p=A.hf(A.y(50),A.lj("images/logo6.png",r,r,500),B.aA),o=A.n(r,3,r),n=$.abv?"Step 6: Notifications":"Step 7: Notifications",m=t.p
-n=A.bV(A.a7(A.a([p,o,A.d(n,r,r,r,A.i(r,r,B.r,r,r,r,r,r,r,r,r,34,r,r,B.f,r,r,!0,r,2,r,r,r,r,r,r),r,r,r),A.n(r,3,r)],m),B.l,B.h,B.e),r,r)
-o=A.n(r,6,r)
-p=A.t(B.c.K(25.5),255,255,255)
-s=A.y(12)
-return A.bt(r,r,A.cC(A.a8(r,new A.ad(B.M1,A.a7(A.a([n,o,A.a8(r,A.a7(A.a([A.d("Registration Complete!",r,r,r,A.i(r,r,B.r,r,r,r,r,r,r,r,r,18,r,r,B.f,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),A.n(r,16,r),A.d("A confirmation email has been sent to your provided email address. Please check your inbox (and spam folder) for further instructions.",r,r,r,A.i(r,r,B.r,r,r,r,r,r,r,r,r,16,r,r,B.M,r,r,!0,r,r,r,r,r,r,r,r),r,r,r)],m),B.v,B.h,B.e),B.k,r,r,new A.af(p,r,r,s,r,r,B.p),r,r,r,r,new A.A(16,16,16,16),r,r,r),A.n(r,32,r)],m),B.bm,B.h,B.e),r),B.k,r,r,new A.af(r,r,r,r,r,new A.aQ(B.S,B.Z,B.y,q,r,r),B.p),r,r,r,r,r,r,r,r),r,r,r,B.I),r,r,r,r,r,r,r)}}
+B(a){var s,r,q,p=null,o=A.al(a,p,t.w).w,n=A.a([B.ab,B.W],t.O),m=$.abv?"Step 5: Notifications":"Step 6: Notifications",l=t.p
+m=A.bV(A.a7(A.a([A.d(m,p,p,p,A.i(p,p,B.r,p,p,p,p,p,p,p,p,34,p,p,B.f,p,p,!0,p,2,p,p,p,p,p,p),p,p,p),A.hf(A.y(50),A.lj("images/logo6.png",p,p,500),B.aA)],l),B.l,B.h,B.e),p,p)
+s=A.n(p,6,p)
+r=A.t(B.c.K(25.5),255,255,255)
+q=A.y(12)
+return A.bt(p,p,A.cC(A.a8(p,new A.ad(B.M1,A.a7(A.a([m,s,A.a8(p,A.a7(A.a([A.d("Registration Complete!",p,p,p,A.i(p,p,B.r,p,p,p,p,p,p,p,p,18,p,p,B.f,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),A.n(p,16,p),A.d("A confirmation email has been sent to your provided email address. Please check your inbox (and spam folder) for further instructions.",p,p,p,A.i(p,p,B.r,p,p,p,p,p,p,p,p,16,p,p,B.M,p,p,!0,p,p,p,p,p,p,p,p),p,p,p)],l),B.v,B.h,B.e),B.k,p,p,new A.af(r,p,p,q,p,p,B.p),p,p,p,p,new A.A(16,16,16,16),p,p,p),A.n(p,32,p)],l),B.bm,B.h,B.e),p),B.k,p,p,new A.af(p,p,p,p,p,new A.aQ(B.S,B.Z,B.y,n,p,p),B.p),p,o.a.b,p,p,p,p,p,p),p,p,p,B.I),p,p,p,p,p,p,p)}}
 A.TF.prototype={
 B(a){return A.ho(!1,new A.GH(null),null,"Market Owner Sign Up")}}
 A.GH.prototype={
@@ -55359,7 +55359,7 @@ s=A.cf(A.a([new A.ad(new A.A(0,0,16,0),A.Z(B.ca,$.C,h,28),h)],t.p),q,h,!0,4,p,h,
 r=$.C
 q=A.al(a,h,t.w).w
 p=t.p
-q=A.dg(B.an,A.a([A.Sn(A.a8(h,h,B.k,h,h,new A.af(h,A.T_(B.c5,new A.kX("images/gradient.png",h,h),h),h,h,h,h,B.p),h,200,h,h,h,h,h,q.a.a),B.aA,new A.YG(h)),A.fY(h,new A.cQ(B.Q,h,h,A.d(i.a.c.b,h,h,h,A.i(h,h,$.C,h,h,h,h,h,h,h,h,26,h,h,B.f,h,h,!0,h,h,h,h,h,h,h,h),h,h,h),h),h,h,0,0,40,h),A.fY(h,new A.cQ(B.Q,h,h,A.ao(A.a([A.Z(B.cY,B.hE,h,20),A.n(h,h,1),A.d(i.a.c.y,h,h,h,A.i(h,h,$.C,h,h,h,h,h,h,h,h,18,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h,h)],p),B.l,B.aI,B.e,h),h),h,h,0,0,100,h),A.fY(h,new A.cQ(B.Q,h,h,A.dg(B.Q,A.a([A.a8(h,h,B.k,h,h,new A.af(h,h,h,h,h,new A.mU(B.Q,3.39,3.4,B.y,A.a([B.cN,B.cN,$.C],t.O),A.a([0.3,0.6,0],t.n),h),B.bQ),h,110,h,h,h,h,h,110),A.e7($.C,h,A.e7(h,new A.en(i.a.c.w,1,h),h,50),51)],p),B.m,B.ap,h),h),h,h,0,0,140,h)],p),B.k,B.ap,h)
+q=A.dg(B.an,A.a([A.Sn(A.a8(h,h,B.k,h,h,new A.af(h,A.T_(B.c5,new A.kX("images/darkblue.png",h,h),h),h,h,h,h,B.p),h,200,h,h,h,h,h,q.a.a),B.aA,new A.YG(h)),A.fY(h,new A.cQ(B.Q,h,h,A.d(i.a.c.b,h,h,h,A.i(h,h,$.C,h,h,h,h,h,h,h,h,26,h,h,B.f,h,h,!0,h,h,h,h,h,h,h,h),h,h,h),h),h,h,0,0,40,h),A.fY(h,new A.cQ(B.Q,h,h,A.ao(A.a([A.Z(B.cY,B.hE,h,20),A.n(h,h,1),A.d(i.a.c.y,h,h,h,A.i(h,h,$.C,h,h,h,h,h,h,h,h,18,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h,h)],p),B.l,B.aI,B.e,h),h),h,h,0,0,100,h),A.fY(h,new A.cQ(B.Q,h,h,A.dg(B.Q,A.a([A.a8(h,h,B.k,h,h,new A.af(h,h,h,h,h,new A.mU(B.Q,3.39,3.4,B.y,A.a([B.cN,B.cN,$.C],t.O),A.a([0.3,0.6,0],t.n),h),B.bQ),h,110,h,h,h,h,h,110),A.e7($.C,h,A.e7(h,new A.en(i.a.c.w,1,h),h,50),51)],p),B.m,B.ap,h),h),h,h,0,0,140,h)],p),B.k,B.ap,h)
 o=i.a.c
 o=o.a!==$.aq().a&&o.r==="owner"&&o.z?i.acI():A.n(h,30,h)
 n=$.aF
